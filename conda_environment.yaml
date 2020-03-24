@@ -1,0 +1,16 @@
+name: causal_ds
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.6.5
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - ipython
+  - networkx
